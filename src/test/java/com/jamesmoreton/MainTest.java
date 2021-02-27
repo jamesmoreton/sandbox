@@ -10,5 +10,5 @@ class MainTest {
   void helloWorld() {
     assertThat(Main.helloWorld()).isEqualTo("Hello World!");
   }
-  
+
 }
