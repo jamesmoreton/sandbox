@@ -8,6 +8,6 @@ class MainTest {
 
   @Test
   void helloWorld() {
-    assertThat(Main.helloWorld()).isEqualTo("Hello World!");
+    assertThat(Main.helloWorld()).isEqualTo("Hello World");
   }
 }
